@@ -1,2 +1,8 @@
-# mass-deface
-[PHP] Mass Deface Bypass Server
+### BlackDragon
+[PHP] Mass Deface
+
+Features:
+- [x] Bypass
+- [x] Etc.
+
+Thanks.
